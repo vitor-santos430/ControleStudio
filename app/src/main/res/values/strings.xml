@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Controle Studio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Controle Studio</string>
+    <string name="nav_header_subtitle">vanessacler.santos@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_receitas">Receitas</string>
+    <string name="menu_gastos">Gastos</string>
+    <string name="menu_geral">Visão Geral</string>
+    <string name="resumo_financas">Aqui Está um Resumo Sobre Suas Finanças</string>
+    <string name="home_second">Home Second</string>
+
+</resources>
